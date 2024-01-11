@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286237021275",
+    "project_id": "pemob-kusdinnar",
+    "storage_bucket": "pemob-kusdinnar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286237021275:android:9ce17266860fdbdae19b7e",
+        "android_client_info": {
+          "package_name": "com.example.pemmob_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDklaolqiw97LQ_cveA3nbk1YlZJ7LsurI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
